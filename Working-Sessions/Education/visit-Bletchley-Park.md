@@ -9,7 +9,7 @@ related-to   :
 status       : review-content
 when-day     : Thu
 organizers   : Johan Peeters (1 extra space in car)
-participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom
+participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sven Schleier
 need-transportation: Viktor Lindstrom
 ---
 
